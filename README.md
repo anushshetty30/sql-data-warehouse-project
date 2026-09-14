@@ -107,7 +107,7 @@ data-warehouse-project/
 
 ## 🌟 About Me
 
-Hi there! I'm **Anush Shetty**. I’m an IT professional and passionate YouTuber on a mission to share knowledge and make working with data enjoyable and engaging!
+Hi there! I'm **Anush Shetty**. I’m an IT professional working with data to make better insights and engaging!
 
 Let's stay in touch!
 
